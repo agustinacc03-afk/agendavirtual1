@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Autoplan VW",
+  "description": "Una agenda virtual estética diseñada para asesoras comerciales de Autoahorro Volkswagen en tonos marrones y nudes. Gestiona clientes fidelizados, contratos, estados de agrupación, cuotas 2 y 3, y exporta reportes mensuales estéticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
